@@ -26,10 +26,10 @@ public class Calculator {
                 break;
             case 3 :
                 System.out.println("Enter first number");
-                int a1=s.nextInt();
+                int a2=s.nextInt();
                 System.out.println("Enter second number");
-                int b1=s.nextInt();
-                System.out.println("The sub is "+(a1*b1));
+                int b2=s.nextInt();
+                System.out.println("The sub is "+(a2*b2));
                 break;
         }
     }

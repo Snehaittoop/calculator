@@ -24,7 +24,13 @@ public class Calculator {
                 int b1=s.nextInt();
                 System.out.println("The sub is "+(a1-b1));
                 break;
-
+            case 3 :
+                System.out.println("Enter first number");
+                int a1=s.nextInt();
+                System.out.println("Enter second number");
+                int b1=s.nextInt();
+                System.out.println("The sub is "+(a1*b1));
+                break;
         }
     }
 
